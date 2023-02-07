@@ -7,7 +7,7 @@
 #3 Boja Ernests
 
 #4 Donovs Emīls Niks
-
+print(cos(radians(60)+fmod(15,2)))
 #5 Feldmane Laura
 
 #6 Karpoviča Zlata
